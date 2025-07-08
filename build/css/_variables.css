@@ -23,4 +23,22 @@
   --sd-green-900: #024450;
   --sd-semantic-primary-default-bg: #3348ff;
   --sd-semantic-secondary-default-bg: #0ca884;
+  --sd-global-blue-100: #e4ecfd;
+  --sd-global-blue-200: #adc8ff;
+  --sd-global-blue-300: #84a9ff;
+  --sd-global-blue-400: #6690ff;
+  --sd-global-blue-500: #3348ff;
+  --sd-global-blue-600: #254edb;
+  --sd-global-blue-700: #1939b7;
+  --sd-global-blue-800: #102693;
+  --sd-global-blue-900: #091a7a;
+  --sd-global-green-100: #ccfade;
+  --sd-global-green-200: #9af6c6;
+  --sd-global-green-300: #65e4ae;
+  --sd-global-green-400: #3dca9c;
+  --sd-global-green-500: #0ca884;
+  --sd-global-green-600: #08907e;
+  --sd-global-green-700: #067874;
+  --sd-global-green-800: #035c61;
+  --sd-global-green-900: #024450;
 }
