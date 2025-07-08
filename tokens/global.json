@@ -1,5 +1,4 @@
-{
-  "global": {
+ {
     "blue": {
       "100": {
         "value": "#d6e4ff",
@@ -76,22 +75,4 @@
         "type": "color"
       }
     }
-  },
-  "semantic": {
-    "primary-default-bg": {
-      "value": "{global.blue.500}",
-      "type": "color"
-    },
-    "secondary-default-bg": {
-      "value": "{global.green.500}",
-      "type": "color"
-    }
-  },
-  "$themes": [],
-  "$metadata": {
-    "tokenSetOrder": [
-      "global",
-      "semantic"
-    ]
-  }
 }
