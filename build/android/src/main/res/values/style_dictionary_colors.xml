@@ -4,26 +4,6 @@
   Do not edit directly, this file was auto-generated.
 -->
 <resources>
-  <color name="blue_100">#d6e4ff</color>
-  <color name="blue_200">#adc8ff</color>
-  <color name="blue_300">#84a9ff</color>
-  <color name="blue_400">#6690ff</color>
-  <color name="blue_500">#3348ff</color>
-  <color name="blue_600">#254edb</color>
-  <color name="blue_700">#1939b7</color>
-  <color name="blue_800">#102693</color>
-  <color name="blue_900">#091a7a</color>
-  <color name="green_100">#ccfade</color>
-  <color name="green_200">#9af6c6</color>
-  <color name="green_300">#65e4ae</color>
-  <color name="green_400">#3dca9c</color>
-  <color name="green_500">#0ca884</color>
-  <color name="green_600">#08907e</color>
-  <color name="green_700">#067874</color>
-  <color name="green_800">#035c61</color>
-  <color name="green_900">#024450</color>
-  <color name="semantic_primary_default_bg">#3348ff</color>
-  <color name="semantic_secondary_default_bg">#0ca884</color>
   <color name="global_blue_100">#e4ecfd</color>
   <color name="global_blue_200">#adc8ff</color>
   <color name="global_blue_300">#84a9ff</color>
@@ -42,4 +22,6 @@
   <color name="global_green_700">#067874</color>
   <color name="global_green_800">#035c61</color>
   <color name="global_green_900">#024450</color>
+  <color name="semantic_primary_default_bg">#091a7a</color>
+  <color name="semantic_secondary_default_bg">#0ca884</color>
 </resources>
