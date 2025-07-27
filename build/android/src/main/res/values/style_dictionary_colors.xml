@@ -22,6 +22,4 @@
   <color name="global_green_700">#067874</color>
   <color name="global_green_800">#035c61</color>
   <color name="global_green_900">#024450</color>
-  <color name="semantic_primary_default_bg">#091a7a</color>
-  <color name="semantic_secondary_default_bg">#0ca884</color>
 </resources>
